@@ -14,3 +14,5 @@ ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/MSTR-3393/
 
 
 https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State#
+
+http://review.cosmopol.is/pre-processing-eeg-data-from-neurosky-mindwave/
