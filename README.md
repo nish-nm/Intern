@@ -18,3 +18,5 @@ https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State#
 http://review.cosmopol.is/pre-processing-eeg-data-from-neurosky-mindwave/
 
 https://github.com/BOOSTDT/EyeStatefromEEG
+
+https://www.researchgate.net/post/How_to_convert_raw_EEG_signal_from_Neurosky_Mindwave_to_frequency_waveforms
