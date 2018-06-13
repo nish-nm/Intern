@@ -22,3 +22,6 @@ https://github.com/BOOSTDT/EyeStatefromEEG
 https://www.researchgate.net/post/How_to_convert_raw_EEG_signal_from_Neurosky_Mindwave_to_frequency_waveforms
 
 https://github.com/pbashivan/EEGLearn
+
+
+https://github.com/alexandrebarachant/pyRiemann
