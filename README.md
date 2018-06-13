@@ -27,3 +27,9 @@ https://github.com/pbashivan/EEGLearn
 https://github.com/alexandrebarachant/pyRiemann
 
 https://github.com/robintibor/braindecode
+
+neuropy-
+https://github.com/lihas/NeuroPy
+
+MNE-
+https://www.martinos.org/mne/stable/getting_started.html
