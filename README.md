@@ -25,3 +25,5 @@ https://github.com/pbashivan/EEGLearn
 
 
 https://github.com/alexandrebarachant/pyRiemann
+
+https://github.com/robintibor/braindecode
