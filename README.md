@@ -33,3 +33,19 @@ https://github.com/lihas/NeuroPy
 
 MNE-
 https://www.martinos.org/mne/stable/getting_started.html
+
+
+https://github.com/Rhuax/Mindwave-brainwaves-reader
+
+https://github.com/frans-fuerst/pymindwave
+
+https://github.com/produceconsumerobot/MindWaveSpectrogram
+
+https://github.com/Bidur-Khanal/Neurosky-Brain-Computer-Interfacing
+
+https://github.com/anridev/brainwaves
+
+https://github.com/Shrawan99/Brain-Computer-Interface
+
+https://github.com/scarca/EEG-Eyes
+
