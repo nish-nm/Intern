@@ -49,3 +49,7 @@ https://github.com/Shrawan99/Brain-Computer-Interface
 
 https://github.com/scarca/EEG-Eyes
 
+
+https://github.com/xenobyte/neurosky-hacks
+
+
