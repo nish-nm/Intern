@@ -53,3 +53,5 @@ https://github.com/scarca/EEG-Eyes
 https://github.com/xenobyte/neurosky-hacks
 
 
+https://github.com/jacklxc/EEGeyeState
+
